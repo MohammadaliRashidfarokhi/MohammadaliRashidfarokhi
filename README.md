@@ -48,21 +48,15 @@ interviewing app) at Lykvyd AB.
 <br/>
 <br/>
 
-<a href="https://github.com/MohammadaliRashidfarokhi">
-  <img align="right" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadaliRashidfarokhi&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
-<a href="https://github.com/MohammadaliRashidfarokhi">
-  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=MohammadaliRashidfarokhi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
-</a>
+<p align="center">
 
+   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dracula">    <img  alt="MohammadaliRashidfarokhi's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MohammadaliRashidfarokhi?cardType=github&theme=dracula" />  </a>
+
+</p>
 
 
-<a href="https://github.com/MohammadaliRashidfarokhi/github-stats">
-  
-![](https://raw.githubusercontent.com/MohammadaliRashidfarokhi/github-stats/master/generated/overview.svg)
-![](https://github.com/MohammadaliRashidfarokhi/github-stats/blob/master/generated/languages.svg)
 
-</a>
+
 
 
