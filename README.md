@@ -13,7 +13,7 @@ Among my studies, programming languages (Java, JavaScript, C) and courses such a
 My main goal is to become a front-end developer after my studies. I had courses in web development at Linnaeus university. Apart from that, I have done several side projects.
 
 
-  <img align="right" alt="GIF" src="https://github.com/MohammadaliRashidfarokhi/2DV610/blob/main/Img/skatter-programmer.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/MohammadaliRashidfarokhi/MohammadaliRashidfarokhi/blob/main/Img/Developer.gif" width="500" height="320" />
   
    
 - 🌱 I’m currently doing my bachelor thesis (Chatting functionality integration into an HR
