@@ -20,9 +20,8 @@ My main goal is to become a front-end developer after my studies. I had courses 
 interviewing app) at Lykvyd AB.
 - 📫 How to reach me :
 <a href="https://www.linkedin.com/in/mohammadalirashidfarokhi">
-  <img align="left" alt="Ali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ali's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 <a href="mailto:ali.farokhi1999@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <br/>
 <br/>
