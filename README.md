@@ -13,7 +13,7 @@ Among my studies, programming languages (Java, JavaScript, C) and courses such a
 My main goal is to become a front-end developer after my studies. I had courses in web development at Linnaeus university. Apart from that, I have done several side projects.
 
 
-  <img align="right" alt="GIF" src="https://github.com/MohammadaliRashidfarokhi/MohammadaliRashidfarokhi/blob/main/Img/Developer.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="500" height="320" />
   
    
 - 🌱 I’m currently doing my bachelor thesis (Chatting functionality integration into an HR
@@ -46,10 +46,6 @@ interviewing app) at Lykvyd AB.
 <br/>
 
 ### GitHub Stats :
-<br/>
-<br/>
-
-
 <p align="center">
 
    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dracula">    <img  alt="MohammadaliRashidfarokhi's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MohammadaliRashidfarokhi?cardType=github&theme=dracula" />  </a>
