@@ -48,7 +48,7 @@ interviewing app) at Lykvyd AB.
 ### GitHub Stats :
 <p align="center">
 
-   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dracula">    <img  alt="MohammadaliRashidfarokhi's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MohammadaliRashidfarokhi?cardType=github&theme=dracula" />  </a>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark">    <img  alt="MohammadaliRashidfarokhi's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MohammadaliRashidfarokhi?cardType=github&theme=github-dark" />  </a>
 
 </p>
 
