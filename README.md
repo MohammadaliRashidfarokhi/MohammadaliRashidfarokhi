@@ -17,7 +17,7 @@ My main goal is to become a front-end developer after my studies. I had courses 
   
    
 - 🌱 I’m currently doing my bachelor thesis (Chatting functionality integration into an HR
-interviewing app) at Lykvyd AB.
+interviewing app) in collaboration with Lykvyd AB.
 - 📫 How to reach me :
 <a href="https://www.linkedin.com/in/mohammadalirashidfarokhi">
   <img align="left" alt="Ali's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
