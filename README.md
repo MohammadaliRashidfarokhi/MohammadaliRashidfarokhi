@@ -4,7 +4,7 @@
 
 <br />
 
-I'm Ali, I am 22 years old from Iran, I am studying Software Technology (Bachelor’s degree) at Linnaeus University in my final year.
+I'm Ali, I am 23 years old from Iran, I am studying Software Technology (Bachelor’s degree) at Linnaeus University in my final year.
 Among my studies, programming languages (Java, JavaScript, C) and courses such as Introduction to web programming, Server-based Web Programming, Problem-solving and Programming, Programming and data structures, Software testing, Software design, Database theory, and Project courses in computer science are in focus.
 
 ### Goal :
