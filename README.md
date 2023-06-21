@@ -4,13 +4,13 @@
 
 <br />
 
-I'm Ali, I am 23 years old from Iran, I am studying Software Technology (Bachelor’s degree) at Linnaeus University in my final year.
-Among my studies, programming languages (Java, JavaScript, C) and courses such as Introduction to web programming, Server-based Web Programming, Problem-solving and Programming, Programming and data structures, Software testing, Software design, Database theory, and Project courses in computer science are in focus.
+I'm Ali. I am 24 years old and from Iran. I am a recently graduated student from Linnaeus University, majoring in the software technology program.
+Among my studies, programming languages (Java, JavaScript, C) and courses such as Introduction to web programming, Server-based Web Programming, Problem-solving and Programming, Programming and data structures, Software Testing, Software Design, Database Theory, and Project courses in Computer Science were in focus.
 
 ### Goal :
 
 
-My main goal is to become a front-end developer after my studies. I had courses in web development at Linnaeus university. Apart from that, I have done several side projects.
+My main goal is to become a front-end developer. I had courses in web development at Linnaeus University. Apart from that, I have done several side projects.
 
 
   <img align="right" alt="GIF" src="https://github.com/MohammadaliRashidfarokhi/MohammadaliRashidfarokhi/blob/main/Img/Dev2.gif" width="500" height="320" />
@@ -25,7 +25,7 @@ My main goal is to become a front-end developer after my studies. I had courses 
 <br/>
    
    
-**languages and skills:**  
+**Languages and Skills:**  
 
 <p>
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
