@@ -10,7 +10,7 @@ Among my studies, programming languages (Java, JavaScript, C) and courses such a
 ### Goal :
 
 
-My main goal is to become a front-end developer. I had courses in web development at Linnaeus University. Apart from that, I have done several side projects.
+Role as a front-end developer
 
 
   <img align="right" alt="GIF" src="https://github.com/MohammadaliRashidfarokhi/MohammadaliRashidfarokhi/blob/main/Img/Dev2.gif" width="500" height="320" />
