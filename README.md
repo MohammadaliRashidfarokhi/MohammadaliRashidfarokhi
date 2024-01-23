@@ -10,7 +10,7 @@ Among my studies, programming languages (Java, JavaScript, C) and courses such a
 ### Goal :
 
 
-Role as a front-end developer
+Role as a front-end developer.
 
 
   <img align="right" alt="GIF" src="https://github.com/MohammadaliRashidfarokhi/MohammadaliRashidfarokhi/blob/main/Img/Dev2.gif" width="500" height="320" />
